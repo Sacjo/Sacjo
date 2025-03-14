@@ -17,16 +17,14 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/danielsanchez13ds/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/danisanchez13ds/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
-  </a>
-  <a href="dani.sanchez.13.ds@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
-  </a>
+  <a href="https://www.linkedin.com/in/danielsanchez13ds/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo" /></a>
+  <a href="https://www.instagram.com/danisanchez13ds/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo" /></a>
+  <a href="mailto:dani.sanchez.13.ds@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo" /></a>
 </div>
+
+###
+
+<h2 align="left">👾 Skills</h2>
 
 ###
 
@@ -113,6 +111,10 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/latex/008080" height="30" alt="latex logo"  />
 </div>
+
+###
+
+<h2 align="left">🎧 Spotify recently played</h2>
 
 ###
 
